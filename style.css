@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(116, 138, 156);
+}
+table{
+    text-align: center;
+    margin-left:600px;
+    border: solid 5px black;
+}
+td{
+    border: solid 3px black;
+}
+h1{
+    text-align: center;
+}
